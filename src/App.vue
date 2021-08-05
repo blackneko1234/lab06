@@ -1,4 +1,5 @@
 <template>
+  <h4 style="text-align: center">Decha Laowraddecha 622115011</h4>
   <div id="flashMessage" v-if="GStore.flashMessage">
     {{ GStore.flashMessage }}
   </div>
